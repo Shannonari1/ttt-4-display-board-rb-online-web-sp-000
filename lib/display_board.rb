@@ -12,4 +12,3 @@ end
 
   board = [ "O ","X ","X "," ","X "," "," X","O "," "]
   display_board(board)
-
