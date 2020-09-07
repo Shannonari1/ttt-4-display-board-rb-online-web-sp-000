@@ -6,10 +6,10 @@ def display_board(the_board)
 
   puts "   |   |   "
   puts "-----------"
-  puts "   |#{the_board[4]}|    "
+  puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
 end
 
-  board = [ " "," "," "," ","X"," "," "," "," "]
+  board = [ " "," "," "," "," "," "," "," "," "]
   display_board(board)
